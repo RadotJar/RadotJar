@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @RadotJar
-- 📫 How to reach me: reilly.hl12@gmail.com
+Full-time web developer working on supporting spacecraft operational capabilities. Part-time Dungeon Master
 
 <!---
 RadotJar/RadotJar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
